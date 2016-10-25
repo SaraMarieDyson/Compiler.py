@@ -1,2 +1,3 @@
 # Compiler.py
-A program that createsa a small and basic programming language. A scanner, parser and Complier have been constructed. Uses jasmin.jar to help construct the language.
+A program that creates a small and basic programming language. A scanner, parser and a complier have been constructed. Translated the abstract syntax tree to JVM bytecode and assembled to a class file by jasmin.jar.
+Project done at second year university paper for formal languages and compilers
